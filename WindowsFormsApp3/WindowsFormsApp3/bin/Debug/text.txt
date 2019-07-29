@@ -1,0 +1,11 @@
+﻿Period	Grupp	Serie	Värde
+2019-07-01	Valutor mot svenska kronor	1 GBP	11,7904
+2019-07-02	Valutor mot svenska kronor	1 GBP	11,7944
+2019-07-03	Valutor mot svenska kronor	1 GBP	11,7338
+2019-07-04	Valutor mot svenska kronor	1 GBP	11,7241
+2019-07-05	Valutor mot svenska kronor	1 GBP	11,7596
+2019-07-08	Valutor mot svenska kronor	1 GBP	11,8063
+2019-07-09	Valutor mot svenska kronor	1 GBP	11,8135
+2019-07-10	Valutor mot svenska kronor	1 GBP	11,7942
+2019-07-11	Valutor mot svenska kronor	1 GBP	11,7768
+2019-07-12	Valutor mot svenska kronor	1 GBP	11,7457
